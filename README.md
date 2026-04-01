@@ -99,4 +99,3 @@ App_Sistema_Solar/
 
 - As imagens dos planetas são carregadas da internet (NASA Image Library), então é necessário conexão com a internet
 - O fundo animado é um GIF externo — pode levar alguns segundos para carregar na primeira vez
-# App_Sistema_Solar
